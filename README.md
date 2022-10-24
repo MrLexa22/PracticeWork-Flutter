@@ -30,4 +30,4 @@
 
 8.	Результат:
 
-![Изображение с Imgur. Пункт I.8](https://i.imgur.com/zBGPhi8.png)
+<center>![Изображение с Imgur. Пункт I.8](https://i.imgur.com/zBGPhi8.png)</center>
