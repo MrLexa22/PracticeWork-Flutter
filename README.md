@@ -6,7 +6,7 @@
 
 ## Ход работы: 
 
-I.  Экран №1 (Welcome)
+##I.  Экран №1 (Welcome)
 1.	Создадим класс «MyApp» и пропишем в нём виджет, где запишем 2 цвета: цвет фона и цвет одной из кнопок. А также вернём MaterialApp и пропишем home: Scaffold():
 ![Изображение с Imgur. Пункт I.1](https://i.imgur.com/sFPM1NT.png)
 
@@ -29,4 +29,5 @@ I.  Экран №1 (Welcome)
 ![Изображение с Imgur. Пункт I.7](https://i.imgur.com/pAOX5xJ.png)
 
 8.	Результат:
+
 ![Изображение с Imgur. Пункт I.8](https://i.imgur.com/zBGPhi8.png)
