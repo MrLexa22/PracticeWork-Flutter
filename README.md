@@ -4,13 +4,8 @@
 
 ## Цель работы: создать 3 экрана при помощи Flutter по макету в Figma 
 
-This project is a starting point for a Flutter application.
+## Ход работы: 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I.  Экран №1 (Welcome)
+1.	Создадим класс «MyApp» и пропишем в нём виджет, где запишем 2 цвета: цвет фона и цвет одной из кнопок. А также вернём MaterialApp и пропишем home: Scaffold():
+https://i.imgur.com/sFPM1NT.png
