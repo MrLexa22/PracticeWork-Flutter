@@ -1,8 +1,8 @@
-# flutter_application_1
+# Практическая работа №1
 
-A new Flutter project.
+## Тема: создание экранов при помощи Flutter
 
-## Getting Started
+## Цель работы: создать 3 экрана при помощи Flutter по макету в Figma 
 
 This project is a starting point for a Flutter application.
 
