@@ -8,4 +8,4 @@
 
 I.  Экран №1 (Welcome)
 1.	Создадим класс «MyApp» и пропишем в нём виджет, где запишем 2 цвета: цвет фона и цвет одной из кнопок. А также вернём MaterialApp и пропишем home: Scaffold():
-https://i.imgur.com/sFPM1NT.png
+![Альтернативный текст](https://i.imgur.com/sFPM1NT.png)
